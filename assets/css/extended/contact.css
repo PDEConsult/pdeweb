@@ -1,0 +1,47 @@
+/* Container for the form */
+.contact-form {
+    margin: 2em auto;
+    padding: 1.5em;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    background: var(--entry);
+}
+
+/* Inputs, Textarea, and Select */
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background: var(--theme);
+    color: var(--primary);
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
+}
+
+/* Focus state for better accessibility */
+.contact-form input:focus,
+.contact-form textarea:focus {
+    border-color: var(--secondary);
+    outline: none;
+}
+
+/* Submit Button */
+.contact-form button[type="submit"] {
+    background: var(--primary);
+    color: var(--theme);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: opacity 0.2s;
+    width: 100%;
+}
+
+.contact-form button[type="submit"]:hover {
+    opacity: 0.8;
+}
