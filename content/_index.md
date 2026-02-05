@@ -1,79 +1,91 @@
 ---
 draft: false
-title: ''
+title: 'Fukt-, vattenskade- och inomhusmiljöutredningar i Uppsala'
 ---
 
-# PDE Consult AB – Experter på fukt, vatten- och inomhusmiljöutredningar
+{{< hero >}}
+# Fukt-, vattenskade- och inomhusmiljöutredningar i Uppsala
+## PDE Consult AB – tekniska utredningar för offentlig sektor och fastighetsägare
 
-**Välkommen till PDE Consult AB** – din pålitliga partner för analyser, utredningar och rådgivning kring fukt, vattenskador och inomhusmiljö i byggnader.  
-Vi hjälper fastighetsägare, bostadsrättsföreningar, byggentreprenörer och försäkringsbolag att identifiera problem, förstå orsaker och ta fram lösningar som håller över tid.
+### Trygga beslutsunderlag för hållbara byggnader
+**PDE Consult AB är specialister på fuktteknik, vattenskadeutredningar och inomhusmiljöutredningar i Uppsala.**
+Vi bistår kommuner, regioner, statliga verksamheter och offentliga fastighetsägare med oberoende, faktabaserade utredningar som skapar säkra beslutsunderlag och långsiktiga lösningar.
 
----
+Verksamma i **Uppsala län och Mälardalen**
+{{< /hero >}}
 
-## Vad vi gör
+{{< index-content >}}
+## Våra tjänster
 
-### Fukttekniska utredningar
-Vi analyserar fuktproblem i byggnader med modern mätteknik och beprövade metoder för att:
-- Kartlägga fuktkällor
-- Bedöma risker för mögel och röta
-- Ge tydliga rekommendationer för åtgärder
+### Fukttekniska utredningar i Uppsala
+Vi genomför fukttekniska utredningar i byggnader såsom skolor, vårdlokaler, kontor och bostäder. Utredningarna syftar till att:
+- Identifiera fuktrelaterade skador och riskkonstruktioner
+- Bedöma risk för mikrobiell tillväxt
+- Ta fram åtgärdsförslag enligt gällande branschpraxis
 
-Vi erbjuder både översiktliga kontroller och djupgående tekniska utredningar.
+Utredningarna anpassas för krav inom offentlig verksamhet och dokumenteras i tekniska rapporter.
 
 ---
 
 ### Vattenskadeutredningar
-Vid misstänkt eller konstaterad vattenskada utreder vi:
-- Orsaken till skadan
-- Skadans omfattning
-- Risk för följdskador
-- Hur återkommande problem kan förebyggas
+Vid inträffade vattenskador utreder vi:
+- Skadeorsak och skadeförlopp
+- Skadans omfattning och påverkan på byggnaden
+- Risk för sekundära skador
+- Förebyggande åtgärder
 
-Resultatet presenteras i en tydlig och användbar rapport.
+Våra vattenskadeutredningar i Uppsala används ofta som underlag för försäkringsärenden, entreprenadansvar och beslut om åtgärder.
 
 ---
 
 ### Inomhusmiljöutredningar
-En god inomhusmiljö är avgörande för hälsa och trivsel. Vi kartlägger:
-- Luftkvalitet och ventilationsfunktion
-- Lukter och kemiska emissioner
-- Temperatur, fuktighet och komfort
+Vi utför inomhusmiljöutredningar i lokaler där hälsa, arbetsmiljö och verksamhetskrav är centrala, exempelvis:
+- Skolor och förskolor
+- Vård- och omsorgsfastigheter
+- Kontor och offentliga lokaler
 
-Utredningen resulterar i konkreta förbättringsförslag.
+Utredningarna omfattar bland annat:
+- Luftkvalitet och ventilation
+- Temperatur och relativ luftfuktighet
+- Luktproblem och emissioner
 
----
-
-## Varför välja PDE Consult?
-
-- **Specialistkompetens** inom fuktteknik, byggnadsfysik och inomhusmiljö  
-- **Objektiva och faktabaserade rapporter** för beslut, försäkringsärenden och åtgärdsplaner  
-- **Moderna mätmetoder och utrustning**  
-- **Tydlig kommunikation** – tekniska resultat förklaras på ett begripligt sätt  
-- **Kundfokus** – lösningar anpassade efter fastighetens förutsättningar
+Resultatet redovisas i tydliga rapporter anpassade för beslutsfattare.
 
 ---
 
-## Våra tjänster i korthet
+## Varför välja PDE Consult AB?
 
-- Fuktinventeringar och fuktskyddsanalys  
-- Vattenskadeutredningar och skadeorsaksanalys  
-- Inomhusmiljöutredningar (luftkvalitet, VOC, CO₂)  
-- Byggnadsteknisk rådgivning  
-- Underlag för försäkrings- och garantiärenden  
-- Åtgärdsförslag och uppföljning
+- **Oberoende konsult** utan koppling till sanerings- eller entreprenadverksamhet
+- **Erfarenhet av uppdrag för offentlig sektor**
+- **Tekniskt välgrundade och spårbara rapporter**
+- **Anpassning till LOU, interna riktlinjer och myndighetskrav**
+- **Lokal närvaro i Uppsala**
 
 ---
 
-## Så här går det till
+## Tjänster i sammanfattning
 
-1. **Kontakt & bokning**  
-   Du kontaktar oss och beskriver ditt ärende.
+- Fuktutredningar i byggnader
+- Vattenskadeutredningar
+- Inomhusmiljöutredningar
+- Byggnadsteknisk rådgivning
+- Underlag för försäkringsärenden
+- Stöd vid upphandling och åtgärdsbeslut
+- Uppföljning av genomförda åtgärder
 
-2. **Inspektion på plats**  
-   Vi genomför mätningar, provtagning och okulär besiktning.
+---
 
-3. **Analys & rapport**  
-   Du får en tydlig rapport med slutsatser och rekommendationer.
+## Arbetsprocess
 
-4. **Stöd vid åtgärder**  
-   Vi bistår vid tolkning, uppföljning och vidare rådgivning.
+1. **Inledande dialog**
+   Genomgång av problemställning, verksamhetskrav och fastighetens förutsättningar.
+
+2. **Platsbesök och mätningar**
+   Fuktmätningar, provtagning och teknisk inventering.
+
+3. **Analys och rapportering**
+   Leverans av teknisk rapport med slutsatser och rekommenderade åtgärder.
+
+4. **Rådgivning och uppföljning**
+   Stöd vid beslut, upphandling och uppföljning av åtgärder.
+{{< /index-content >}}

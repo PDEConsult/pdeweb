@@ -2,6 +2,7 @@ baseURL: https://example.org/
 languageCode: sv-SE
 title: "PDE Consult AB"
 theme: ["PaperMod"]
+defaultContentLanguage: sv
 
 enableRobotsTXT: true
 buildDrafts: true
@@ -19,8 +20,9 @@ params:
   keywords: [Fuktutredning, Vattenskador, Fuktskador, Inomhusmiljöutredning]
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: true
+  disableAnchoredHeadings: true
 
 menu:
   main:
@@ -36,10 +38,13 @@ assets:
   favicon32x32: "<link / abs url>"
   apple_touch_icon: "<link / abs url>"
   safari_pinned_tab: "<link / abs url>"
+  disableHLJS: false
   
 label:
   text: "Home"
   icon: /apple-touch-icon.png
   iconHeight: 35
+
+copyright: "PDE Consult AB | Org. nr 556988-4264"
 
 # https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
