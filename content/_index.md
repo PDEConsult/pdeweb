@@ -5,10 +5,10 @@ title: 'Fukt-, vattenskade- och inomhusmiljöutredningar i Uppsala'
 
 {{< hero >}}
 # Fukt-, vattenskade- och inomhusmiljöutredningar i Uppsala
-## PDE Consult AB – tekniska utredningar för offentlig sektor och fastighetsägare
+## PDE Fukt – tekniska utredningar för offentlig sektor och fastighetsägare
 
 ### Trygga beslutsunderlag för hållbara byggnader
-**PDE Consult AB är specialister på fuktteknik, vattenskadeutredningar och inomhusmiljöutredningar i Uppsala.**
+**PDE Fukt är specialister på fuktteknik, vattenskadeutredningar och inomhusmiljöutredningar i Uppsala.**
 Vi bistår kommuner, regioner, statliga verksamheter och offentliga fastighetsägare med oberoende, faktabaserade utredningar som skapar säkra beslutsunderlag och långsiktiga lösningar.
 
 Verksamma i **Uppsala län och Mälardalen**
@@ -53,7 +53,7 @@ Resultatet redovisas i tydliga rapporter anpassade för beslutsfattare.
 
 ---
 
-## Varför välja PDE Consult AB?
+## Varför välja PDE Fukt?
 
 - **Oberoende konsult** utan koppling till sanerings- eller entreprenadverksamhet
 - **Erfarenhet av uppdrag för offentlig sektor**

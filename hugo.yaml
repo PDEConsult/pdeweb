@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: sv-SE
-title: "PDE Consult AB"
+title: "PDE Fukt"
 theme: ["PaperMod"]
 defaultContentLanguage: sv
 
@@ -15,14 +15,18 @@ minify:
   
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "PDE Consult AB"
+  title: "PDE Fukt"
   description: "Vi erbjuder professionell hjälp med vattenskador, fuktskador, inomhusmiljöutredning med mera."
   keywords: [Fuktutredning, Vattenskador, Fuktskador, Inomhusmiljöutredning]
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["PDE_logga_upscaled.webp"]
   DateFormat: "January 2, 2006"
   defaultTheme: light # dark, light
   disableThemeToggle: true
   disableAnchoredHeadings: true
+  label:
+    icon: "PDE_logga_trans.webp"
+    iconHeight: 45
+    text: "PDE Fukt"
 
 menu:
   main:
