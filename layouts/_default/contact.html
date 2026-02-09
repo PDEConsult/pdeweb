@@ -33,6 +33,10 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  {{- if .contacts}}
+  <!-- TODO -->
+  {{- end }}
+
   {{- if .Content }}
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
