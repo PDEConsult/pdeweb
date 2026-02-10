@@ -1,3 +1,62 @@
+.contacts {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: var(--content-gap);
+}
+
+.contacts .contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: .5em;
+    width: 12em;
+    background-color: var(--entry);
+    border-radius: var(--radius);
+    border: 1px solid var(--border);
+    padding: .5em;
+}
+
+.contacts .contact .contact-image {
+    height: 10em;
+    width: 100%;
+    border-radius: .5em;
+    padding: .5em;
+}
+
+.contacts .contact .contact-image img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.contacts .contact .contact-name {
+    color: var(--primary);
+}
+.contacts .contact .contact-title {
+    color: var(--secondary);
+    font-size: .9em;
+}
+.contacts .contact .contact-links {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: .5em;
+    font-size: .9em;
+    width: 100%;
+}
+.contacts .contact .contact-links .contact-links-phone{
+    border-top: 1px solid var(--border);
+    padding-top: .5em;
+}
+.contacts .contact .contact-links .contact-links-email{
+    border-top: 1px solid var(--border);
+    padding-top: .5em;
+}
+.contacts .contact .contact-links .icon {
+    vertical-align: text-top;
+}
+
 /* Container for the form */
 .contact-form {
     margin: 2em auto;
