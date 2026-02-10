@@ -24,7 +24,7 @@ params:
   disableThemeToggle: true
   disableAnchoredHeadings: true
   label:
-    icon: "PDE_logga_trans.webp"
+    icon: "pde_logo_notext_trans.svg"
     iconHeight: 45
     text: "PDE Fukt"
 
