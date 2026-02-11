@@ -3,6 +3,7 @@ languageCode: sv-SE
 title: "PDE Fukt"
 theme: ["PaperMod"]
 defaultContentLanguage: sv
+disableKinds: ["taxonomy", "taxonomyTerm"]
 
 enableRobotsTXT: true
 buildDrafts: true
@@ -26,6 +27,7 @@ params:
   label:
     icon: "pde_logo_notext_trans.svg"
     iconHeight: 45
+    iconWidth: 45
     text: "PDE Fukt"
 
 menu:
