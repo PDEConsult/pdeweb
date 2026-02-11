@@ -3,7 +3,6 @@ draft: false
 title: 'Kontakta oss'
 layout: "contact"
 params:
-  test: "hej"
   contacts:
   - name: "Lucas Eriksson"
     title: "VD"

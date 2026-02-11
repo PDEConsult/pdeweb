@@ -1,8 +1,8 @@
 baseURL: "https://pdefukt.se/"
-languageCode: sv-SE
+languageCode: "sv-SE"
 title: "PDE Fukt"
 theme: ["PaperMod"]
-defaultContentLanguage: sv
+defaultContentLanguage: "sv"
 disableKinds: ["taxonomy", "taxonomyTerm"]
 
 enableRobotsTXT: true
@@ -15,13 +15,13 @@ minify:
   minifyOutput: true
   
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: "production" # to enable google analytics, opengraph, twitter-cards and schema.
   title: "PDE Fukt"
   description: "Vi erbjuder professionell hjälp med vattenskador, fuktskador, inomhusmiljöutredning med mera."
   keywords: [Fuktutredning, Vattenskador, Fuktskador, Inomhusmiljöutredning]
   images: ["PDE_logga_upscaled.webp"]
   DateFormat: "January 2, 2006"
-  defaultTheme: light # dark, light
+  defaultTheme: "light" # dark, light
   disableThemeToggle: true
   disableAnchoredHeadings: true
   label:
@@ -32,23 +32,23 @@ params:
 
 menu:
   main:
-    - identifier: contact
+    - identifier: "contact"
       name: "Kontakta oss"
-      url: /kontakta-oss/
+      url: "/kontakta-oss/"
       weight: 10
 
 assets:
   disableFingerprinting: true
   favicon: "/favicon.ico"
-  # favicon16x16: "<link / abs url>"
-  # favicon32x32: "<link / abs url>"
-  # apple_touch_icon: "<link / abs url>"
-  # safari_pinned_tab: "<link / abs url>"
+  favicon16x16: "/favicon.ico"
+  favicon32x32: "/favicon.ico"
+  apple_touch_icon: "/favicon.ico"
+  safari_pinned_tab: "/favicon.ico"
   disableHLJS: false
   
 label:
-  text: "Home"
-  icon: /apple-touch-icon.png
+  text: "Hem"
+  icon: "/favicon.ico"
   iconHeight: 35
 
 copyright: "PDE Consult AB | Org. nr 556988-4264"
