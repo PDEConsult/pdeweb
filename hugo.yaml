@@ -1,4 +1,4 @@
-baseURL: https://pdefukt.se/
+baseURL: "https://pdefukt.se/"
 languageCode: sv-SE
 title: "PDE Fukt"
 theme: ["PaperMod"]
