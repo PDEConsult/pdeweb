@@ -29,6 +29,14 @@ params:
     iconHeight: 45
     iconWidth: 45
     text: "PDE Fukt"
+  assets:
+    disableFingerprinting: true
+    favicon: "/favicon.ico"
+    favicon16x16: "favicon.ico"
+    favicon32x32: "/favicon.ico"
+    apple_touch_icon: "/favicon.ico"
+    safari_pinned_tab: "/favicon.ico"
+    disableHLJS: false
 
 menu:
   main:
@@ -36,20 +44,6 @@ menu:
       name: "Kontakta oss"
       url: "/kontakta-oss/"
       weight: 10
-
-assets:
-  disableFingerprinting: true
-  favicon: "/favicon.ico"
-  favicon16x16: "/favicon.ico"
-  favicon32x32: "/favicon.ico"
-  apple_touch_icon: "/favicon.ico"
-  safari_pinned_tab: "/favicon.ico"
-  disableHLJS: false
-  
-label:
-  text: "Hem"
-  icon: "/favicon.ico"
-  iconHeight: 35
 
 copyright: "PDE Consult AB | Org. nr 556988-4264"
 
